@@ -1,0 +1,41 @@
+body {
+	box-sizing: border-box;
+	background: skyblue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+form {
+	display: inline;
+}
+
+h2 {
+	text-align: center;
+	color: darkcyan;
+	border-bottom: 1px dashed;
+}
+
+.celsius {
+	background: antiquewhite;
+	width: 50%;
+}
+
+.submit {
+	width: 45%;
+	margin: 0;
+	background: gainsboro;
+	
+	color: lightcoral;
+
+}
+
+.container {
+	width: 30%;
+	background: moccasin;
+	text-align: left;
+	padding: 10px;
+
+
+}
